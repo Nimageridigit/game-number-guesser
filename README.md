@@ -21,32 +21,23 @@
 
 ```bash
 # ۱. کلون کردن پروژه
-git clone git@github.com:USERNAME/REPO-NAME.git
+git clone git@github.com:Nimageridigit/game-number-guesser.git
 
 # ۲. رفتن به پوشه پروژه
-cd REPO-NAME
+cd number_guesser_game
 
-# ۳. نصب وابستگی‌ها
+# ۳. نصب وابستگی‌ها # TODO
 pip install -r requirements.txt
 
-# ۴. اجرای پروژه
+# ۴. اجرای پروژه # TODO
 python app.py
 ```
 
 ---
 
-## 📷 اسکرین‌شات / دمو
-(اینجا یک عکس از محیط پروژه یا GIF اجرای اون بذار)  
-
-![screenshot](./screenshot.png)  
-
----
 
 ## 👤 نویسنده
-- [USERNAME در گیت‌هاب](https://github.com/USERNAME)  
-- ایمیل: your@email.com  
+- [USERNAME در گیت‌هاب](https://github.com/Nimageridigit)  
+- ایمیل: nimageridi@gmail.com 
 
 ---
-
-## 📜 لایسنس
-این پروژه تحت لایسنس MIT منتشر شده است.  
