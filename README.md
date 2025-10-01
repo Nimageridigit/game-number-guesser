@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙️ تکنولوژی‌ها
+## ⚙️ 
 - زبان/فریمورک: `Python` 
 
 - ابزارها: `Git`, `GitHub`  
@@ -20,24 +20,21 @@
 ## 📂 نصب و اجرا
 
 ```bash
-# ۱. کلون کردن پروژه
+ 
 git clone git@github.com:Nimageridigit/game-number-guesser.git
 
-# ۲. رفتن به پوشه پروژه
-cd number_guesser_game
+cd src
+python main.py
 
-# ۳. نصب وابستگی‌ها # TODO
-pip install -r requirements.txt
 
-# ۴. اجرای پروژه # TODO
-python app.py
+
 ```
 
 ---
 
 
-## 👤 نویسنده
-- [USERNAME در گیت‌هاب](https://github.com/Nimageridigit)  
+## 👤 
+- [Nimageridigit](https://github.com/Nimageridigit)  
 - ایمیل: nimageridi@gmail.com 
 
 ---
