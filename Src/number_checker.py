@@ -3,6 +3,15 @@ wg=0        #wrong guess
 
 while True:
     try:
+        print("""
+        -------------------------------
+        NUMBER GUESSER GAME
+        -------------------------------
+        
+        In the begening, you have total score of 1000 points.
+        Every time you guess the number incorrect, you loose 100 points for each wrong guess.
+        ***LETS START***
+        """)
         user_number=int(input("Please enter a number between 0 and 100:"))
         if 0 <= user_number <= 100:
             if user_number == random_num:
